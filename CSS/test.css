@@ -1,21 +1,23 @@
+body{
+	margin: 0;
+}
+
 h1{
+	font-family: courier;
 	font-size: 50px;
-	color: #7880B5;
+	font-weight: 100;
+	color: grey;
 	text-transform: uppercase;
+	padding-left: 40px;
 }
 h2{
 	font-size: 20px; 
 	color: #C0A9B0;
 }
-.big{
-	font-size: 40px;
-	color: #6987C9;
+h3{
+	padding-top: 50px;
 }
-column1{
-	float: left;
-  	width: 50%;
-} 
-column2{
-	float: right;
-  	width: 50%;
+footer{
+	text-align: center;
+	background-color: ;
 }
