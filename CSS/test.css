@@ -4,20 +4,56 @@ body{
 
 h1{
 	font-family: courier;
-	font-size: 50px;
+	font-size: 70px;
 	font-weight: 100;
 	color: grey;
 	text-transform: uppercase;
+	padding: 20px;
 	padding-left: 40px;
 }
+header img{
+	padding: 0;
+}
+main{
+	max-width: 1600px;
+	padding-left: 40px;
+	line-height: 30px;
+}
 h2{
-	font-size: 20px; 
-	color: #C0A9B0;
+	font-family: courier;
+	font-weight: 100;
+	font-size: 40px; 
+	color: grey;
+	padding-left: 40px;
+}
+p1{
+	font-family: 'M PLUS 1p', sans-serif;
+	font-weight: 100;
+	color: grey;
+	margin: 0 auto;
+	padding-left: 40px;
 }
 h3{
-	padding-top: 50px;
+	font-family: courier;
+	padding: 30px;
+	font-size: 70px; 
+	font-weight: 100;
+	color: grey;
+	max-width: 1000px;
+}
+p2{
+	font-family: 'M PLUS 1p', sans-serif;
+	font-weight: 100;
+	color: grey;
 }
 footer{
 	text-align: center;
-	background-color: ;
+	background-color: #E9E9E9;
+	padding:20px;
+	font-family: 'M PLUS 1p', sans-serif;
+	font-weight: 100;
+	color: grey;
+}
+footer h2 p img{
+	margin: 0;
 }
